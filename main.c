@@ -52,4 +52,5 @@ paso final volcar al archivo.
       problema          /posible causa        / solucines
   ej  se guarda basura  /no cerraba el archivo/ lo cerramos
   3)diagrama de estructuras/funciones.
+  4)manual del programa.
 */
